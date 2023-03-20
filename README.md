@@ -1,4 +1,4 @@
-<h1 align="center"><font size="10">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mit PAtel</font><br/><p><font size="5">I'm a passionate Front end Developer.</font></p></h1>
+<h1 align="center"><font size="10">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mit PAtel</font><br/><p><font size="5">I'm a passionate Front-end Developer.</font></p></h1>
 
 ## 🙋‍♂️ About Me
 
@@ -10,7 +10,7 @@
 
 📫 Reach me **mitkpatel09@gmail.com**
 
-👷 Current looking for full-time work in (**frontend developer**)
+👷 Current looking for full-time work in (**Front-end Developer, Full Stack Developer**)
 
 ## 🚀 Languages I primarily work with:
 
@@ -68,7 +68,7 @@
     </a>
 </p>
 
-# 📊 GitHub Stats:
+## 📊 My Github Stats:
 
 <p align="center">
     <img  src="https://github-readme-stats.vercel.app/api?username=mitkpatel&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
