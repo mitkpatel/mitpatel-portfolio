@@ -26,10 +26,16 @@
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 --- -->
 
+<p align="center">
+    <img  src="https://github-readme-stats.vercel.app/api?username=mitkpatel&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+        alt="vcodementor" />
+</p>
+
+
 ## ❤ Connect with me:
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/blessing-olaleye-139a22204/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/OlaleyeBlessin"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
