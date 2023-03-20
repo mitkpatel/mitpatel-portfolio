@@ -10,7 +10,7 @@
 
 📫 Reach me **mitkpatel09@gmail.com**
 
-<!-- 👷 Current looking for full-time work(**frontend**) -->
+👷 Current looking for full-time work in (**frontend developer**)
 
 ## 🚀 Languages I primarily work with:
 
@@ -68,9 +68,7 @@
     </a>
 </p>
 
-<!-- ## 📘 Currently Learning:
-![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
---- -->
+# 📊 GitHub Stats:
 
 <p align="center">
     <img  src="https://github-readme-stats.vercel.app/api?username=mitkpatel&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
