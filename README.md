@@ -14,13 +14,59 @@
 
 ## 🚀 Languages I primarily work with:
 
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+<h3 align="center">Languages</h3>
+<p align="center">
+    <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+            alt="html5" />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+            alt="css3" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+            alt="javascript" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
+            alt="typescript" />
+    </a>
+</p>
+
 
 ## 🚀 Languages and tools I am familiar with:
 
-<!-- ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) -->
-
-![image](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=scss&logoColor=white) ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![image](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+<p align="center">
+    <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+            alt="bootstrap" />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://img.shields.io/badge/tailwindcss-7952B3.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"
+            alt="tailwindcss" />
+    </a>
+    <a href="https://angular.io" target="_blank">
+        <img src="https://img.shields.io/badge/angular-8DD6F9.svg?style=for-the-badge&logo=angular&logoColor=black"
+            alt="angular" />
+    </a>
+    <a href="https://reactjs.org" target="_blank">
+        <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+            alt="react" />
+    </a>
+    <a href="https://vuejs.org" target="_blank">
+        <img src="https://img.shields.io/badge/vue-8DD6F9.svg?style=for-the-badge&logo=vue&logoColor=black"
+            alt="vue" />
+    </a>
+    <a href="https://jquery.com/" target="_blank">
+        <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"
+            alt="jquery" />
+    </a>
+    <a href="https://webpack.js.org" target="_blank">
+        <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
+            alt="webpack" />
+    </a>
+</p>
 
 <!-- ## 📘 Currently Learning:
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
